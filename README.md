@@ -15,4 +15,4 @@
 
 #GITHUB HOSTED WEBSITE LINK 
 
-https://manutomar46.github.io/Xenyxeno.github.io/
+https://manutomar46.github.io/Xenyxeno.github.io/log.html
